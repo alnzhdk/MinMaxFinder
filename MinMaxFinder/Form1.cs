@@ -2,6 +2,7 @@
 using System.Windows.Forms;
 using System.Drawing;
 
+
 namespace MinMaxFinder
 {
     public partial class Form1 : Form
